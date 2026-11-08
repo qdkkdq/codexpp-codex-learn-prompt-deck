@@ -1,0 +1,13 @@
+{
+  "id": "codex-prompt-deck",
+  "name": "提示词面板",
+  "version": "1.1.0",
+  "description": "可拖动的六级学习提示词浮窗。滚轮切换，点击展开适用场景和提示词，一键复制。",
+  "engines": {
+    "codexpp": 1
+  },
+  "renderer": [
+    "renderer.js"
+  ],
+  "repository": "qdkkdq/codexpp-codex-learn-prompt-deck"
+}
